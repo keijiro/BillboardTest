@@ -229,6 +229,9 @@ VisualEffect:
       - m_Value: 1
         m_Name: Flame
         m_Overridden: 1
+      - m_Value: 0
+        m_Name: Alt
+        m_Overridden: 1
 --- !u!4 &1348224366
 Transform:
   m_ObjectHideFlags: 0
